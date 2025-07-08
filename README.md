@@ -3,7 +3,7 @@ It consists of a single page application where i display records of a database. 
 
 This is a web application built using React for managing data records. It includes features like searching, sorting, and pagination.
 
-## Features
+## Features of the pagenation application
 
 - Search records by name or location.
 - Sort records by date or time.
